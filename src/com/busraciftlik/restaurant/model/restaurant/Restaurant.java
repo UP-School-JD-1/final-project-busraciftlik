@@ -127,7 +127,7 @@ public class Restaurant {
             Thread thread = new Thread(chef);
             thread.setName(chef.getFullName());
             thread.start();
-            System.out.println("A thread was produced for " +thread.getName() + " Chef");
+            System.out.println("A thread was created for " +thread.getName() + " Chef");
         }
     }
 
@@ -140,7 +140,7 @@ public class Restaurant {
             Thread thread = new Thread(waiter);
             thread.setName(waiter.getFullName());
             thread.start();
-            System.out.println("A thread was produced for " +thread.getName());
+            System.out.println("A thread was created for " +thread.getName());
         }
     }
 
