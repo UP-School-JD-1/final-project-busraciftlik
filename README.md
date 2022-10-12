@@ -3,7 +3,9 @@
 ING Bank Java Bootcamp bitirme ödevi için hazırlanmış projedir. Çalıştırmak için aşağıdaki adımları takip ediniz.
 
 1- Repository içindeki RestaurantSimulation.jar dosyasını indiriniz.
+
 2- Bilgisayarınızda javanın en az 17. sürümünün kurulu olduğundan emin olunuz.
+
 3- Aşağıdaki komutu çalıştırınız
 
 java -jar RestaurantSimulation.jar
