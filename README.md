@@ -1,4 +1,4 @@
-# ING Bank Java Bootcamp Bitirme Projesi
+# ING Bank & UP School Java Bootcamp Bitirme Projesi
 
 > ING Bank Java Bootcamp bitirme ödevi için hazırlanmış projedir. Çalıştırmak için aşağıdaki adımları takip ediniz.
 > - Repository içindeki RestaurantSimulation.jar dosyasını indiriniz.
